@@ -1,0 +1,16 @@
+header{
+    background-image: 
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  font-family: Georgia;
+  
+}
+body{
+    background-color: silver;
+    font-family: Times New Roman;
+}
+figcaption {
+    color: orange;
+    font-size: 12px;
+}
